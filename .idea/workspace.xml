@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cce8dd70-6b0b-4a22-9eb3-c2e44817c974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/campo/Posicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/campo/Peca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/campo/Tabuleiro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WA2UbkLl9tzFDWwcB27WML81Fq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -83,10 +85,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="119" width="374" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1578579161884">
+    <state x="491" y="119" width="374" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1578580152783">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state x="491" y="119" width="374" height="560" key="#com.intellij.ide.util.MemberChooser/0.32.1366.736/1366.0.1920.1080@0.32.1366.736" timestamp="1578579161884" />
+    <state x="491" y="119" width="374" height="560" key="#com.intellij.ide.util.MemberChooser/0.32.1366.736/1366.0.1920.1080@0.32.1366.736" timestamp="1578580152783" />
     <state width="1324" height="175" key="GridCell.Tab.0.bottom" timestamp="1578579388149">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
